@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mandeep Singh!
 
-<!--
-**mandeep3535/mandeep3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at UBC Okanagan  
+🌐 I love building real-world applications and learning modern development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Git & GitHub
+- Java (with NetBeans)
+- PHP, MySQL, and full-stack web development
+- AI concepts and algorithms
+
+---
+
+## 🔧 Projects I'm Working On
+- 🛒 **MV Electronics** – A complete e-commerce website (HTML, PHP, JS, MySQL)
+- 🎓 **Student Management System** – Java + MySQL project for admin and student users
+
+---
+
+## 🎯 Goals
+- Master full-stack development with frameworks like React and Laravel
+- Learn DevOps and CI/CD tools
+- Explore machine learning
+
+---
+
+## 🎮 Fun Facts
+- I enjoy solving problems with code
+- I like watching YouTube tech tutorials
+- I explore GitHub to learn from open-source code
+
+Thanks for visiting! 😊
