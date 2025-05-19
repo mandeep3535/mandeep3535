@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mandeep Singh!
+# 👋 Hi, I'm Mandeep
 
 🎓 I'm a Computer Science student at UBC Okanagan  
 🌐 I love building real-world applications and learning modern development tools.
