@@ -6,9 +6,7 @@
 ---
 
 ## 🌱 What I'm Learning
-- Git & GitHub
-- Java (with NetBeans)
-- PHP, MySQL, and full-stack web development
+- React
 - AI concepts and algorithms
 
 ---
