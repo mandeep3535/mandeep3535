@@ -11,7 +11,7 @@ I love building real-world applications and learning modern development tools.
 
 ---
 
-##  Projects I'm Working On
+##  Projects I Worked On
 -  **MV Electronics** – A complete e-commerce website (HTML, PHP, JS, MySQL)
 - **Student Management System** – Java + MySQL project for admin and student users
 
