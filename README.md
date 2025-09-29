@@ -1,6 +1,6 @@
 #  Hi, I'm Mandeep
 
-I'm a Computer Science student at UBC Okanagan  
+I'm a recent Computer Science graduate from UBC Okanagan  
 I love building real-world applications and learning modern development tools.
 
 ---
