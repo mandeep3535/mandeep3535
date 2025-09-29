@@ -12,6 +12,7 @@ I love building real-world applications and learning modern development tools.
 ---
 
 ##  Projects I Worked On
+-  **TA Allocation and Management System** – A complete website (React, Tailwind CSS, SpringBoot, MySQL)
 -  **MV Electronics** – A complete e-commerce website (HTML, PHP, JS, MySQL)
 - **Student Management System** – Java + MySQL project for admin and student users
 
