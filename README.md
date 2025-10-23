@@ -6,7 +6,6 @@ I love building real-world applications and learning modern development tools.
 ---
 
 ##  What I'm Learning
-- React
 - AI concepts and algorithms
 
 ---
