@@ -8,6 +8,7 @@
 👨‍💻 **Check out my projects:**  
 🌐 [**MV Electronics**](https://mvelectronics.online) – Full-stack e-commerce website hosted on a Linux LAMP stack.  
 📦 [**TA-Portal-Infinity**](https://github.com/mandeep3535/TA_allocation_and_management_system_public) – Microservice-based academic portal built with Java Spring Boot and React.  
+🤖 [**Portfolio Assistant**](https://mandeep3535.online) – Interactive portfolio website with an AI-powered assistant built using React, TypeScript, Tailwind CSS, Vite, and deployed on Vercel.
 🎓 [**Student Registration System**](https://github.com/mandeep3535/Student-Registration-System) – Java and MySQL-based desktop application with secure login, GPA tracking, course enrollment, and email notifications.
 
 
